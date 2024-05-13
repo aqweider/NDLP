@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "947499283887",
+    "project_id": "daleel-nidlp",
+    "storage_bucket": "daleel-nidlp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947499283887:android:1918e0f223c2cd5ab8ab5a",
+        "android_client_info": {
+          "package_name": "com.daleel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947499283887-jif12g7c59q4padvhvtbo966qsdo220d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtXIvZKMqkpzS0IuTiPdLyehrKl7kBfys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947499283887-jif12g7c59q4padvhvtbo966qsdo220d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947499283887-8fvl2p2mqjhqsi8n1jc64coop5k2j014.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.nidlp.daleel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947499283887:android:244af06f388a1c82b8ab5a",
+        "android_client_info": {
+          "package_name": "sa.gov.daleel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947499283887-jif12g7c59q4padvhvtbo966qsdo220d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtXIvZKMqkpzS0IuTiPdLyehrKl7kBfys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947499283887-jif12g7c59q4padvhvtbo966qsdo220d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947499283887-8fvl2p2mqjhqsi8n1jc64coop5k2j014.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.nidlp.daleel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

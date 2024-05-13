@@ -1,0 +1,1 @@
+export { CommiteeCard } from './CommitteeCard';

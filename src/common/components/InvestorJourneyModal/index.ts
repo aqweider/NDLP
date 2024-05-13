@@ -1,0 +1,1 @@
+export { InvestorJourneyModal } from './InvestorJourneyModal';

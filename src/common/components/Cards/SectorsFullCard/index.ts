@@ -1,0 +1,1 @@
+export { SectorsFullCard } from './SectorsFullCard';

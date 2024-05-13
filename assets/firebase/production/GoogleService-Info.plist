@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDuNHQ_t8F80dCC7YwH4b7yJbldykegAXo</string>
+	<key>BUNDLE_ID</key>
+	<string>org.nidlp.daleel</string>
+	<key>CLIENT_ID</key>
+	<string>947499283887-8fvl2p2mqjhqsi8n1jc64coop5k2j014.apps.googleusercontent.com</string>
+	<key>GCM_SENDER_ID</key>
+	<string>947499283887</string>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:947499283887:ios:581cf482066d2188b8ab5a</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<false/>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>PROJECT_ID</key>
+	<string>daleel-nidlp</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.947499283887-8fvl2p2mqjhqsi8n1jc64coop5k2j014</string>
+	<key>STORAGE_BUCKET</key>
+	<string>daleel-nidlp.appspot.com</string>
+</dict>
+</plist>

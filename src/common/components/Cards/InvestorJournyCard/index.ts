@@ -1,0 +1,1 @@
+export { InvestorJournyCard } from './InvestorJournyCard';

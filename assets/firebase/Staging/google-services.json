@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790042003456",
+    "project_id": "daleel-staging-366012",
+    "storage_bucket": "daleel-staging-366012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790042003456:android:a1182402acfcf58e46f0e5",
+        "android_client_info": {
+          "package_name": "sa.gov.daleel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YAnVfczP2_tRn_3I1NoRcYqZrIwbNuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
